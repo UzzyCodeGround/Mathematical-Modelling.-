@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Projects
 
-This repository is a collection of my projects showcasing some of my work done. 
+This repository is a collection of projects showcasing some of my work done. 
 
 ## Repository Overview
 
